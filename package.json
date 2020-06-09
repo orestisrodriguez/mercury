@@ -1,0 +1,12 @@
+{
+  "name": "mercury",
+  "version": "1.0.0",
+  "description": "A simple way to move, transform and push data around",
+  "author": "Orestis Rodriguez <orestis@orestisrodriguez.com>",
+  "license": "MIT",
+  "private": "true",
+  "workspaces": [
+    "mercury",
+    "tap-google-sheets"
+  ]
+}

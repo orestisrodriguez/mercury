@@ -1,0 +1,15 @@
+{
+  "name": "@mercury/mercury",
+  "version": "1.0.0",
+  "description": "A simple way to move, transform and push data around",
+  "main": "index.js",
+  "author": "Orestis Rodriguez <orestis@orestisrodriguez.com>",
+  "license": "MIT",
+  "scripts": {
+    "it": "mocha test/it",
+    "unit": "mocha test/unit"
+  },
+  "devDependencies": {
+    "mocha": "^7.2.0"
+  }
+}
