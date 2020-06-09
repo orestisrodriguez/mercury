@@ -1,0 +1,14 @@
+{
+  "name": "@mercury/tap-google-sheets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Orestis Rodriguez <orestis@orestisrodriguez.com>",
+  "license": "MIT",
+  "scripts": {
+    "unit": "mocha test/unit",
+    "it": "mocha test/it"
+  },
+  "devDependencies": {
+    "mocha": "^7.2.0"
+  }
+}
