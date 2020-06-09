@@ -7,6 +7,6 @@
   "private": "true",
   "workspaces": [
     "mercury",
-    "tap-google-sheets"
+    "pull-google-sheets"
   ]
 }
