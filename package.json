@@ -1,0 +1,7 @@
+{
+  "name": "mercury",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Orestis Rodriguez <orestis@orestisrodriguez.com>",
+  "license": "MIT"
+}
