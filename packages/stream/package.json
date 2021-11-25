@@ -1,0 +1,7 @@
+{
+  "name": "@mercury/stream",
+  "version": "0.0.1",
+  "description": "A NodeJS streams abstraction with composition in mind",
+  "author": "Orestis Rodriguez <orestis@mediatool.com>",
+  "license": "MIT"
+}

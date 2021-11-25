@@ -1,0 +1,7 @@
+{
+  "name": "@mercury/gather",
+  "version": "0.0.1",
+  "description": "A series of utilities to help you gather data from APIs, the right (and easy) way",
+  "author": "Orestis Rodriguez <orestis@mediatool.com>",
+  "license": "MIT"
+}

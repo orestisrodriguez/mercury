@@ -1,0 +1,7 @@
+{
+  "name": "@mercury/authenticate",
+  "version": "0.0.1",
+  "description": "Maintain a consistent authentication approach throughout the sea of protocols and APIs",
+  "author": "Orestis Rodriguez <orestis@mediatool.com>",
+  "license": "MIT"
+}
