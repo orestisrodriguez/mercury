@@ -1,0 +1,12 @@
+{
+  "name": "mercury",
+  "version": "0.0.1",
+  "description": "A set of utilities to build API connectors in a breeze.",
+  "repository": "https://github.com/orestisrodriguez/mercury",
+  "author": "Orestis Rodriguez <orestis@mediatool.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
