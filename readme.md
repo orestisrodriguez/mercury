@@ -1,5 +1,4 @@
 <img src="https://raw.githubusercontent.com/orestisrodriguez/mercury/master/mercury.svg" width="128" height="60" />
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
 <br />
 
